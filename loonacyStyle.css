@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(224, 255, 206);
+}
+
+.section{
+    background-color: rgb(224, 255, 206);
+}
+#first, #second, #third, #forth, #fifth, #sixth, #seventh, #eighth, #nineth{
+    width: 45%;
+    height: auto;
+    margin: auto;
+    padding: 5px;
+    
+}
+#second ul{
+    text-align: center;
+}
+.sim-slider {
+    background-color: rgb(224, 255, 206);
+}
+  

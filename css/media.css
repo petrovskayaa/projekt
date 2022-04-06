@@ -1,0 +1,15 @@
+@media all and (max-width: 800px){
+    #img1{order: 1;}
+    #img2{order: 3;}
+    #second{order: 2;}
+    #third{order: 4;}
+    #img3{order: 5;}
+    #img4{order: 7;}
+    #forth{order: 6;}
+    #fifth{order: 8;}
+    #img5{order: 9;}
+    #img6{order: 11;}
+    #sixth{order: 10;}
+    #seventh{order: 12;}
+    #img7{order: 13;}
+}
